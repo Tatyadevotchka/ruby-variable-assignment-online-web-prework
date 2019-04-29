@@ -1,1 +1,1 @@
-puts "Greeting"
+'Greeting'
