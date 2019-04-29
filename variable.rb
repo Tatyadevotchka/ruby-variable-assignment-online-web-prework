@@ -1,1 +1,1 @@
-greeting = "hello world".
+Puts "hello World"
