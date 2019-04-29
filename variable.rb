@@ -1,2 +1,2 @@
-greeting = "hello world"
+greeting = "hello world".
 puts "welcome #{greeting}."
